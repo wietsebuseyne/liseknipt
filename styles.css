@@ -182,7 +182,7 @@ div.content {
 }
 
 div.content:nth-child(even) {
-    background-color: #08093c;
+    background-color: #1a1038; /* #08093c; */
 }
 
 div.content:nth-child(even) h2,

@@ -182,7 +182,8 @@ div.content {
 }
 
 div.content:nth-child(even) {
-    background-color: #08093c;
+    background-color: #1a1038; 
+ #    background-color: #08093c;
 }
 
 div.content:nth-child(even) h2,
@@ -289,14 +290,14 @@ dt, dd {
 
 dt { 
 	float: left; 
-	width: 82%; 
+	width: 80%; 
 	overflow: hidden; 
 	white-space: nowrap;
 }
 
 dd { 
 	float: right; 
-	width: 18%; 
+	width: 20%; 
 	overflow: hidden;
 	margin: 0px; 
 	min-width: 48px;

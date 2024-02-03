@@ -37,7 +37,7 @@ function showSlides(n) {
       dots[i].className = dots[i].className.replace(" active", "");
   }
   var img = slides[slideIndex-1].getElementsByTagName("img")[0];
-  img.src = "images/" + slideIndex + ".jpeg";
+  img.src = "images/" + slideIndex + ".jepg";
   slides[slideIndex-1].style.display = "block";
   dots[slideIndex-1].className += " active";
   captionText.innerHTML = slideIndex + "/12";

@@ -4,9 +4,9 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta charset="utf-8">
 		
-		<title>Kapster aan huis Herent, Leuven, Winksele, Veltem, Wijgmaal, Wilsele & Kessel-Lo | Lise Knipt</title>
-		<meta name="description" content="Lise Knipt - kapster aan huis in regio Herent (Winksele, Veltem, Veltem-Beisem) & Leuven (Wijgmaal, Wilsele, Kessel-Lo)">
-		<meta name="keywords" content="kapper,kapster,hairdresser,leuven,wijgmaal,herent,wilsele,rotselaar,veltem,veltem-beisem,wilsele-dorp,aan huis,kinderen,knippen,drogen,wassen,frou,kleuren,uitgroei,balayage,ombre,toner,brushen,stijlen,krullen,krultang,stijltang,opsteken,opsteekkapsel,trouwkapsel,try out,balayage,bijwerken,baard,trimmen">
+		<title>Kapster aan huis Herent, Winksele, Veltem, Wijgmaal &amp; Wilsele | Lise Knipt</title>
+		<meta name="description" content="Lise Knipt - kapster aan huis in regio Herent (Winksele, Veltem, Veltem-Beisem), Wijgmaal &amp; Wilsele">
+		<meta name="keywords" content="kapper,kapster,hairdresser,wijgmaal,herent,wilsele,veltem,veltem-beisem,wilsele,wilsele-dorp,aan huis,kinderen,knippen,drogen,wassen,frou,kleuren,uitgroei,balayage,ombre,toner,brushen,stijlen,krullen,krultang,stijltang,opsteken,opsteekkapsel,trouwkapsel,try-out,balayage,bijwerken,trimmen">
 
 		<link rel="stylesheet" href="styles.css">
 
@@ -41,7 +41,7 @@
 					<p><a href="https://wa.me/32476409536?lang=nl&text=Hallo,%20ik%20zou%20graag%20een%20afspraak%20maken%20op%20" target="_blank"><img src="images/whatswhite.png" id="contact-whatsapp" alt="Whatsapp icoon"/> Berichtje via WhatsApp</a></p>
 					<p><a href="tel:+32-476-409-536">0476 409 536</a></p>
 					<p>Uitsluitend op afspraak</p>
-					<p>Regio Herent (Winksele, Veltem, Veltem-Beisem) &amp;<br/>Leuven (Wijgmaal, Wilsele, Kessel-Lo) exclusief Heverlee</p>
+					<p>Regio Herent (Winksele, Veltem, Veltem-Beisem), Wijgmaal &amp; Wilsele</p>
 					<p>Kilometervergoeding buiten regio Herent: €0,40 / km</p>
 				</div>
 				
@@ -49,12 +49,12 @@
 					<h2>Foto's</h2>
 					<div class="center-container" style="margin-bottom: 10px;">
 						<div class="center">
-							<img src="images/1_thumb.jpg" alt="Bruidskapsel" onclick="openModal();currentSlide(1)" class="hover-shadow cursor thumb"/>
-							<img src="images/2_thumb.jpg" alt="Balayage" onclick="openModal();currentSlide(2)" class="hover-shadow cursor thumb"/>
-							<img src="images/3_thumb.jpg" alt="Balayage" onclick="openModal();currentSlide(3)" class="hover-shadow cursor thumb"/>
-							<img src="images/4_thumb.jpg" alt="Kindersnit" onclick="openModal();currentSlide(4)" class="hover-shadow cursor thumb"/>
-							<img src="images/5_thumb.jpg" alt="Herensnit" onclick="openModal();currentSlide(5)" class="hover-shadow cursor thumb"/>
-							<img src="images/6_thumb_last.jpg" alt="Half opgestoken" onclick="openModal();currentSlide(6)" class="hover-shadow cursor thumb last"/>
+							<img src="images/1_thumb.jpeg" alt="Kapsel thumbnail 1" onclick="openModal();currentSlide(1)" class="hover-shadow cursor thumb"/>
+							<img src="images/2_thumb.jpeg" alt="Kapsel thumbnail 2" onclick="openModal();currentSlide(2)" class="hover-shadow cursor thumb"/>
+							<img src="images/3_thumb.jpeg" alt="Kapsel thumbnail 3" onclick="openModal();currentSlide(3)" class="hover-shadow cursor thumb"/>
+							<img src="images/4_thumb.jpeg" alt="Kapsel thumbnail 4" onclick="openModal();currentSlide(4)" class="hover-shadow cursor thumb"/>
+							<img src="images/5_thumb.jpeg" alt="Kapsel thumbnail 5" onclick="openModal();currentSlide(5)" class="hover-shadow cursor thumb"/>
+							<img src="images/6_thumb_last.jpeg" alt="Kapsel thumbnail 6" onclick="openModal();currentSlide(6)" class="hover-shadow cursor thumb last"/>
 						</div>
 					</div>
 					<!-- Lightbox -->
@@ -63,73 +63,63 @@
 						<span class="close cursor" onclick="closeModal()">&times;</span>
 
 						<div class="mySlides">
-						  <div class="numbertext">1 / 14</div>
-						  <img src="images/placeholder.png" alt="Bruidskapsel">
+						  <div class="numbertext">1 / 12</div>
+						  <img src="images/placeholder.png" alt="">
 						</div>
 
 						<div class="mySlides">
-						  <div class="numbertext">2 / 14</div>
-						  <img src="images/placeholder.png" alt="Balayage">
+						  <div class="numbertext">2 / 12</div>
+						  <img src="images/placeholder.png" alt="">
 						</div>
 
 						<div class="mySlides">
-						  <div class="numbertext">3 / 14</div>
-						  <img src="images/placeholder.png" alt="Balayage">
+						  <div class="numbertext">3 / 12</div>
+						  <img src="images/placeholder.png" alt="">
 						</div>
 
 						<div class="mySlides">
-						  <div class="numbertext">4 / 14</div>
-						  <img src="images/placeholder.png" alt="Kindersnit">
+						  <div class="numbertext">4 / 12</div>
+						  <img src="images/placeholder.png" alt="">
 						</div>
 
 						<div class="mySlides">
-						  <div class="numbertext">5 / 14</div>
-						  <img src="images/placeholder.png" alt="Herensnit">
+						  <div class="numbertext">5 / 12</div>
+						  <img src="images/placeholder.png" alt="">
 						</div>
 
 						<div class="mySlides">
-						  <div class="numbertext">6 / 14</div>
-						  <img src="images/placeholder.png" alt="Half opgestoken">
+						  <div class="numbertext">6 / 12</div>
+						  <img src="images/placeholder.png" alt="">
 						</div>
 
 						<div class="mySlides">
-						  <div class="numbertext">7 / 14</div>
-						  <img src="images/placeholder.png" alt="Klassiek opsteekkapsel">
+						  <div class="numbertext">7 / 12</div>
+						  <img src="images/placeholder.png" alt="">
 						</div>
 
 						<div class="mySlides">
-						  <div class="numbertext">8 / 14</div>
-						  <img src="images/placeholder.png" alt="Bruidskapsel">
+						  <div class="numbertext">8 / 12</div>
+						  <img src="images/placeholder.png" alt="">
 						</div>
 
 						<div class="mySlides">
-						  <div class="numbertext">9 / 14</div>
-						  <img src="images/placeholder.png" alt="Opsteekkapsel vlecht">
+						  <div class="numbertext">9 / 12</div>
+						  <img src="images/placeholder.png" alt="">
 						</div>
 
 						<div class="mySlides">
-						  <div class="numbertext">10 / 14</div>
-						  <img src="images/placeholder.png" alt="Vlechtcreatie">
+						  <div class="numbertext">10 / 12</div>
+						  <img src="images/placeholder.png" alt="">
 						</div>
 
 						<div class="mySlides">
-						  <div class="numbertext">11 / 14</div>
-						  <img src="images/placeholder.png" alt="Mèchen / korte snit">
+						  <div class="numbertext">11 / 12</div>
+						  <img src="images/placeholder.png" alt="">
 						</div>
 
 						<div class="mySlides">
-						  <div class="numbertext">12 / 14</div>
-						  <img src="images/placeholder.png" alt="Blond naar bruin / beachwaves">
-						</div>
-
-						<div class="mySlides">
-						  <div class="numbertext">13 / 14</div>
-						  <img src="images/placeholder.png" alt="Blond naar bruin / beachwaves">
-						</div>
-
-						<div class="mySlides">
-						  <div class="numbertext">14 / 14</div>
-						  <img src="images/placeholder.png" alt="Half opgestoken">
+						  <div class="numbertext">12 / 12</div>
+						  <img src="images/placeholder.png" alt="">
 						</div>
 
 						<!-- Next/previous controls -->
@@ -143,59 +133,59 @@
 
 						<!-- Thumbnail image controls -->
 						<div class="column">
-						  <img class="demo cursor" style="width:100%" src="images/1_thumb.jpg" onclick="currentSlide(1)" alt="Bruidskapsel">
+						  <img class="demo cursor" style="width:100%" src="images/1_thumb.jpeg" onclick="currentSlide(1)" alt="Bruidskapsel">
 						</div>
 
 						<div class="column">
-						  <img class="demo cursor" style="width:100%" src="images/2_thumb.jpg" onclick="currentSlide(2)" alt="Balayage">
+						  <img class="demo cursor" style="width:100%" src="images/2_thumb.jpeg" onclick="currentSlide(2)" alt="Balayage">
 						</div>
 
 						<div class="column">
-						  <img class="demo cursor" style="width:100%" src="images/3_thumb.jpg" onclick="currentSlide(3)" alt="Balayage">
+						  <img class="demo cursor" style="width:100%" src="images/3_thumb.jpeg" onclick="currentSlide(3)" alt="Balayage">
 						</div>
 
 						<div class="column">
-						  <img class="demo cursor" style="width:100%" src="images/4_thumb.jpg" onclick="currentSlide(4)" alt="Kindersnit">
+						  <img class="demo cursor" style="width:100%" src="images/4_thumb.jpeg" onclick="currentSlide(4)" alt="Kindersnit">
 						</div>
 
 						<div class="column">
-						  <img class="demo cursor" style="width:100%" src="images/5_thumb.jpg" onclick="currentSlide(5)" alt="Herensnit">
+						  <img class="demo cursor" style="width:100%" src="images/5_thumb.jpeg" onclick="currentSlide(5)" alt="Herensnit">
 						</div>
 
 						<div class="column">
-						  <img class="demo cursor" style="width:100%" src="images/6_thumb.jpg" onclick="currentSlide(6)" alt="Half opgestoken">
+						  <img class="demo cursor" style="width:100%" src="images/6_thumb.jpeg" onclick="currentSlide(6)" alt="Half opgestoken">
 						</div>
 
 						<div class="column">
-						  <img class="demo cursor" style="width:100%" src="images/7_thumb.jpg" onclick="currentSlide(7)" alt="Klassiek opsteekkapsel">
+						  <img class="demo cursor" style="width:100%" src="images/7_thumb.jpeg" onclick="currentSlide(7)" alt="Klassiek opsteekkapsel">
 						</div>
 
 						<div class="column">
-						  <img class="demo cursor" style="width:100%" src="images/8_thumb.jpg" onclick="currentSlide(8)" alt="Bruidskapsel">
+						  <img class="demo cursor" style="width:100%" src="images/8_thumb.jpeg" onclick="currentSlide(8)" alt="Bruidskapsel">
 						</div>
 
 						<div class="column">
-						  <img class="demo cursor" style="width:100%" src="images/9_thumb.jpg" onclick="currentSlide(9)" alt="Opsteekkapsel vlecht">
+						  <img class="demo cursor" style="width:100%" src="images/9_thumb.jpeg" onclick="currentSlide(9)" alt="Opsteekkapsel vlecht">
 						</div>
 
 						<div class="column">
-						  <img class="demo cursor" style="width:100%" src="images/10_thumb.jpg" onclick="currentSlide(10)" alt="Vlechtcreatie">
+						  <img class="demo cursor" style="width:100%" src="images/10_thumb.jpeg" onclick="currentSlide(10)" alt="Vlechtcreatie">
 						</div>
 
 						<div class="column">
-						  <img class="demo cursor" style="width:100%" src="images/11_thumb.jpg" onclick="currentSlide(11)" alt="Mèchen / korte snit">
+						  <img class="demo cursor" style="width:100%" src="images/11_thumb.jpeg" onclick="currentSlide(11)" alt="Mèchen / korte snit">
 						</div>
 
 						<div class="column">
-						  <img class="demo cursor" style="width:100%" src="images/12_thumb.jpg" onclick="currentSlide(12)" alt="Blond naar bruin / beachwaves">
+						  <img class="demo cursor" style="width:100%" src="images/12_thumb.jpeg" onclick="currentSlide(12)" alt="Blond naar bruin / beachwaves">
 						</div>
 
 						<div class="column">
-						  <img class="demo cursor" style="width:100%" src="images/13_thumb.jpg" onclick="currentSlide(13)" alt="Blond naar bruin / beachwaves">
+						  <img class="demo cursor" style="width:100%" src="images/13_thumb.jpeg" onclick="currentSlide(13)" alt="Blond naar bruin / beachwaves">
 						</div>
 
 						<div class="column">
-						  <img class="demo cursor" style="width:100%" src="images/14_thumb.jpg" onclick="currentSlide(14)" alt="Half opgestoken">
+						  <img class="demo cursor" style="width:100%" src="images/14_thumb.jpeg" onclick="currentSlide(14)" alt="Half opgestoken">
 						</div>
 
 						</div>
@@ -213,15 +203,11 @@
 					</dl>
 					<h3>Knippen</h3>
 					<dl>
-						<dt>Knippen+drogen</dt>
+						<dt>Knippen &amp; drogen</dt>
+						<dd>40</dd>
+						<dt>Knippen zonder drogen</dt>
 						<dd>35</dd>
-						<dt>Wassen enkel</dt>
-						<dd>10</dd>
-						<dt>Kinderen 0-5j</dt>
-						<dd>15</dd>
-						<dt>Kinderen (jongens) 5-12j</dt>
-						<dd>18</dd>
-						<dt>Kinderen (meisjes) 5-12j</dt>
+						<dt>Kinderen 0-12j</dt>
 						<dd>20</dd>
 						<dt>Frou</dt>
 						<dd>5</dd>
@@ -231,51 +217,45 @@
 						<dt>Uitgroei</dt>
 						<dd>45</dd>
 						<dt>Volledige kleuring</dt>
-						<dd>50</dd>
-						<dt>Balayage</dt>
-						<dd>45</dd>
-						<dt>Ombré</dt>
+						<dd>55</dd>
+						<dt>Balayage of ombr&eacute;</dt>
 						<dd>50</dd>
 						<dt>Toner</dt>
 						<dd>20</dd>
+						<dt>Uitgroei &amp; balayage</dt>
+						<dd>65</dd>
 					</dl>
 					<h3>Drogen</h3>
 					<dl>
-						<dt>Model brushen</dt>
+						<dt>Brushen</dt>
 						<dd>25</dd>
-						<dt>Afwerking stijltang</dt>
-						<dd>5</dd>
-						<dt>Stijltang/krultang</dt>
-						<dd>20</dd>
+						<dt>Extra met stijl- of krultang</dt>
+						<dd>+10</dd>
 					</dl>
 					<h3>Opsteken</h3>
 					<dl>
 						<dt>Opsteekkapsel</dt>
 						<dd>35</dd>
-						<dt>Trouwkapsel + try out</dt>
-						<dd>75-90</dd>
+						<dt>Trouwkapsel + try-out</dt>
+						<dd>75-95</dd>
 					</dl>
 					<h3>All-In</h3>
 					<dl>
 						<dt>Wassen + knippen + drogen</dt>
-						<dd>40</dd>
+						<dd>43</dd>
 						<dt>Uitgroei + knippen + drogen</dt>
-						<dd>75</dd>
-						<dt>Kleuring + knippen + drogen</dt>
 						<dd>80</dd>
-						<dt>Balayage + knippen + drogen</dt>
-						<dd>75</dd>
-						<dt>Ombr&eacute; + knippen + drogen</dt>
+						<dt>Balayage of ombr&eacute; + knippen + drogen</dt>
 						<dd>80</dd>
+						<dt>Uitgroei + balayage + knippen + drogen</dt>
+						<dd>93</dd>
 					</dl>
 					<h3>Heren</h3>
 					<dl>
 						<dt>Knippen</dt>
-						<dd>20</dd>
-						<dt>Bijwerken nek en oren</dt>
+						<dd>24</dd>
+						<dt>Bijwerken nek &amp; oren</dt>
 						<dd>5</dd>
-						<dt>Baard</dt>
-						<dd>10</dd>
 					</dl>
 				</div>
 			</div>
